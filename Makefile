@@ -10,7 +10,7 @@ SRCS := \
 INCLUDES := \
 	argtable3 \
 
-CFLAGS := -o1 -g
+CFLAGS := -o2 -g
 
 LIBS := m
 
